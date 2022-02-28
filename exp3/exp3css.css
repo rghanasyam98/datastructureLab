@@ -1,0 +1,31 @@
+h1
+{
+color:orange;
+margin-left:80px;
+}
+
+p
+{
+font-size:20px;
+color:blue;
+text-align:center;
+opacity:0.5;
+}
+
+a
+{
+color:red;
+font-family:arial;
+background:orange;
+padding: 15px 25px;
+}
+
+div
+{
+width:500px;
+border:15px solid blue;
+padding:5px;
+margin:55px;
+
+}
+
